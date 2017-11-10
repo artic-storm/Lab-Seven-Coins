@@ -1,1 +1,2 @@
-# Lab-Seven-Coins
+# JSPlatformer
+JS Platformer for DIG 3480C
